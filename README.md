@@ -1,6 +1,6 @@
 # Quiz app
 
-![Quiz app](https://github.com/piotrglodek/quiz-ts/blob/master/img/quiz.png 'Quiz')
+![Quiz app](https://github.com/piotrglodek/quiz-ts/blob/master/img/quiz.png)
 
 ## About
 
